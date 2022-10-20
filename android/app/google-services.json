@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "562207654927",
+      "project_id": "newsflash-af763",
+      "storage_bucket": "newsflash-af763.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:562207654927:android:ea093178fbb4b1e1bd8f7a",
+          "android_client_info": {
+            "package_name": "com.asda.newsflash"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "562207654927-4o2hg9ives0ta0rolg4trtjm46c6fuak.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyD04rNogy8FLf1WA_ObFplJwlfgMkg8Jfw"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "562207654927-4o2hg9ives0ta0rolg4trtjm46c6fuak.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
